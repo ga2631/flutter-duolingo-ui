@@ -1,0 +1,10 @@
+const String iconLanguage = 'lib/assets/images/icons/language.png';
+const String iconStreak = 'lib/assets/images/icons/streak.png';
+const String iconFreeze = 'lib/assets/images/icons/freeze.png';
+const String iconLogo = 'lib/assets/images/icons/logo.png';
+const String iconHome = 'lib/assets/images/icons/home.png';
+const String iconSpeak = 'lib/assets/images/icons/speak.png';
+const String iconBonusChest = 'lib/assets/images/icons/bonus_chest.png';
+const String iconPractice = 'lib/assets/images/icons/practice.png';
+const String iconRanking = 'lib/assets/images/icons/ranking.png';
+const String iconMore = 'lib/assets/images/icons/more.png';
